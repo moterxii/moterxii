@@ -19,44 +19,41 @@ When I'm not coding or processing datasets, I enjoy video editing, drone photogr
 
 ---
 
-### 🌐 [Check Out My Web Application Deployment](https://motrx9.pythonanywhere.com/)
+### 🌐 [SOON]
 
 ---
 
 ## 🔭 What I'm Currently Working On 
 
-- **MediSystem / MediQR:** A patient information management system with instant QR-code generation built with Python, Flask, and Tkinter.
-- **scRNA-Seq Analysis Pipeline:** A single-cell RNA sequencing analysis workflow utilizing Python and Scanpy for quality control, UMAP visualization, and clustering.
+- **SOON
 
 ## 🌱 Currently Learning 
+## 🌱 Currently Learning 
 
-- Advanced genomic sequence analysis using RStudio and Bioconductor packages (Biostrings, ShortRead).
-- Optimizing local AI workflows and model deployment with Ollama.
+- **Bioinformatics & Genomic Data Processing:** Deepening expertise in biological sequence analysis, FASTQ quality control, and transcriptomic data workflows using RStudio and Bioconductor packages.
+- **Local AI & Open-Weight LLM Integration:** Exploring local LLM workflows, prompt optimization, and AI-assisted development tools 
+- **Web Application Architecture:** Expanding knowledge in full-stack Python development, deployment techniques, and user interface optimization.
 
 ## 🛠️ Technical Skillset
 
 #### Software & Web Development
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask Badge">
-  <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat&logo=python&logoColor=white" alt="CustomTkinter Badge">
-  <img src="https://img.shields.io/badge/Flet-02569B?style=flat&logo=flutter&logoColor=white" alt="Flet Badge">
-  <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat&logo=python&logoColor=white" alt="PyInstaller Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 #### Data Processing & Bioinformatics
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
   <img src="https://img.shields.io/badge/Bioconductor-127BCA?style=flat&logo=r&logoColor=white" alt="Bioconductor Badge">
-  <img src="https://img.shields.io/badge/Scanpy-3776AB?style=flat&logo=python&logoColor=white" alt="Scanpy Badge">
 </p>
 
 #### Tools & Environment
+#### Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama Badge">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro Badge">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Antigravity-4B0082?style=flat&logo=google&logoColor=white" alt="Antigravity">
 </p>
