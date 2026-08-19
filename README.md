@@ -5,9 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/motrx9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/motrx9"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/moterxii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## 🚀 About Me 
@@ -27,7 +25,7 @@ When I'm not coding or processing datasets, I enjoy video editing, drone photogr
 
 - **SOON
 
-## 🌱 Currently Learning 
+
 ## 🌱 Currently Learning 
 
 - **Bioinformatics & Genomic Data Processing:** Deepening expertise in biological sequence analysis, FASTQ quality control, and transcriptomic data workflows using RStudio and Bioconductor packages.
@@ -51,7 +49,7 @@ When I'm not coding or processing datasets, I enjoy video editing, drone photogr
   <img src="https://img.shields.io/badge/Bioconductor-127BCA?style=flat&logo=r&logoColor=white" alt="Bioconductor Badge">
 </p>
 
-#### Tools & Environment
+
 #### Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
