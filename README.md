@@ -1,7 +1,7 @@
 ## Hi there, I'm Motrex (Mujtaba Wsam) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Software+Developer+%7C+Health+Informatics;Python+%7C+Flask;Building+Smart+Desktop+%26+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Software+Developer;Health+Informatics;Python+%7C+Flask;Building+Desktop+%26+Web+Apps" alt="Typing SVG" />
 </div>
 
 <p align="center">
