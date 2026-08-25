@@ -188,7 +188,7 @@ A Python-based desktop application focused on automation, data management, and u
 </p>
 
 <details>
-<summary><code>$ ./run --unsafe</code></summary>
+<summary><code>DO NOT CLICK HERE!</code></summary>
 
 <br>
 
