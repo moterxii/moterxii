@@ -103,31 +103,21 @@ Three tracks, running in parallel:
 
 <div align="center">
 
-<p>
-  <strong>⚡ Building • Learning • Shipping</strong>
-</p>
+|   💻 Development   |       🧬 Research       |        🤖 AI        |
+| :----------------: | :---------------------: | :-----------------: |
+| Python · R · Flask | Genomics · Bioconductor | LLMs · AI Workflows |
 
 <br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=moterxii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
-alt="MOTREX GitHub Stats"
-width="48%"
-/>
+**Open Source · Continuous Learning · Building in Public**
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=moterxii&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
-alt="MOTREX Top Languages"
-width="48%"
-/>
+<br>
 
-<br><br>
-
-<a href="https://github.com/moterxii">
-  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-00D9FF?style=flat-square&logo=github&logoColor=0D1117" alt="GitHub Profile">
-</a>
+[**GitHub Profile →**](https://github.com/moterxii)   •  
+[**Repositories →**](https://github.com/moterxii?tab=repositories)
 
 </div>
+
 
 
 ---
