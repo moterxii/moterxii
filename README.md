@@ -102,17 +102,22 @@ Three tracks, running in parallel:
 ### `05` — GitHub Activity
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=moterxii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=86400"
-    alt="MOTREX GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moterxii&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=86400"
-    alt="MOTREX Top Languages"
-  />
+  <a href="https://github.com/moterxii">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=moterxii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
+      alt="MOTREX GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/moterxii">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=moterxii&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+      alt="MOTREX Top Languages"
+    />
+  </a>
 </p>
+
 
 ---
 
