@@ -1,205 +1,109 @@
 <div align="center">
 
-# MOTREX
-<sub>Mujtaba Wsam</sub>
-
-### Software Engineer building at the intersection of healthcare data, computational biology, and AI
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Health+Informatics;Genomic+%26+Clinical+Data+Pipelines;Single-Cell+RNA-seq+Analysis;AI-Assisted+Development"
-  alt="Typing SVG"
-/>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/moterxii">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/_xi_y/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=00D9FF" alt="Instagram">
-  </a>
-  <a href="https://t.me/prou771">
-    <img src="https://img.shields.io/badge/Telegram-161B22?style=flat-square&logo=telegram&logoColor=00D9FF" alt="Telegram">
-  </a>
-</p>
-
-</div>
-
----
-
-### `01` — About
-
-I'm studying Computer Science and Health Informatics at the University of Basrah, and most of what I build lives at the intersection of the two: software for handling healthcare data and pipelines for making sense of biological data that doesn't arrive pre-cleaned.
-
-Day to day, that means developing desktop and web applications that simplify healthcare data management, while also building processing pipelines for genomic data — particularly single-cell RNA sequencing — from raw output to something a researcher can actually use.
-
-I care less about which stack gets the credit and more about whether the pipeline runs cleanly, the architecture remains maintainable, and the interface stays out of the way.
-
-Lately, that work happens as much in RStudio and Bioconductor as in a traditional code editor, while AI-assisted development is becoming an increasingly important part of the workflow.
-
-Off the clock: video editing, drone photography, and enough hours in games that I've started calling it research.
-
----
-
-### `02` — Current Focus
-
-| Area | Status |
-|---|---|
-| **Status** | `in progress` |
-| **Building** | AI-assisted development workflows |
-| **Focus** | Healthcare data · Bioinformatics · AI systems |
-
-<sub>Updates will be added as projects become public.</sub>
-
----
-
-### `03` — Currently Learning
-
-Three tracks, running in parallel:
-
-| Track | Focus | Tools |
-|---|---|---|
-| **Bioinformatics & Genomics** | Sequence analysis, FASTQ quality control, and transcriptomic data workflows | R · RStudio · Bioconductor |
-| **AI & LLM Systems** | LLM workflows, AI-assisted development, and prompt optimization | Open-weight LLMs |
-| **Full-Stack Development** | Python-based architecture, deployment, and UI/UX optimization | Python · Flask |
-
----
-
-### `04` — Technical Skillset
-
-**Programming**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00D9FF" alt="Python">
-  <img src="https://img.shields.io/badge/R-161B22?style=flat-square&logo=r&logoColor=00D9FF" alt="R">
-</p>
-
-**Web Development**
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=00D9FF" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=00D9FF" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=00D9FF" alt="CSS3">
-</p>
-
-**Data & Bioinformatics**
-
-<p>
-  <img src="https://img.shields.io/badge/RStudio-161B22?style=flat-square&logo=rstudio&logoColor=00D9FF" alt="RStudio">
-  <img src="https://img.shields.io/badge/Bioconductor-161B22?style=flat-square&logo=r&logoColor=00D9FF" alt="Bioconductor">
-</p>
-
-**Development Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visual-studio-code&logoColor=00D9FF" alt="VS Code">
-  <img src="https://img.shields.io/badge/Antigravity-161B22?style=flat-square&logo=google&logoColor=00D9FF" alt="Antigravity">
-</p>
-
----
-
-### `05` — GitHub Activity
-
-<div align="center">
-
-|   💻 Development   |       🧬 Research       |        🤖 AI        |
-| :----------------: | :---------------------: | :-----------------: |
-| Python · R · Flask | Genomics · Bioconductor | LLMs · AI Workflows |
-
-<br>
-
-**Open Source · Continuous Learning · Building in Public**
-
-<br>
-
-[**GitHub Profile →**](https://github.com/moterxii)   •  
-[**Repositories →**](https://github.com/moterxii?tab=repositories)
-
-</div>
-
-
-
----
-
-### `06` — Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · moterxii</sub></p>
+<h1>Mujtaba Wsam</h1>
+<h2>Product-minded developer</h2>
+<p>Computer Science &amp; IT Student University of Basrah | Python &amp; Software Developer</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-#### Genomic Data Pipeline
-
-A bioinformatics pipeline for processing and analyzing genomic or transcriptomic datasets.
-
-`Python` `R` `Bioconductor`
-
-[View Repository →](https://github.com/moterxii)
-
+<p><a href="https://github.com/moterxii">GitHub</a></p>
 </td>
-
-<td width="50%" valign="top">
-
-#### Health Systems Dashboard
-
-A healthcare-focused application for managing, visualizing, and working with clinical data.
-
-`Python` `Flask`
-
-[View Repository →](https://github.com/moterxii)
-
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/254973216?u=aa46c9feefde4efeea61866ca5eb05946ac81123&amp;v=4" width="180" alt="Mujtaba Wsam GitHub avatar" />
 </td>
 </tr>
+</table>
+</div>
 
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>19 contributions · 3 active days</p></td>
+</tr>
+</table>
 
-#### AI-Assisted Dev Tool
+<p><sub>Computer Science &amp; IT Student University of Basrah | Python &amp; Software Developer</sub></p>
 
-A development workflow focused on using AI systems to improve software planning, implementation, testing, and debugging.
+<h2>Proof at a glance</h2>
 
-`Python` `LLMs`
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>19</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-[View Repository →](https://github.com/moterxii)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mujtaba Wsam GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&repos=moterxii%2Fmoterxii&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&repos=moterxii%2Fmoterxii&v=recruiter-projects-1&mode=dark" width="100%" alt="Mujtaba Wsam selected projects" />
+</picture>
 </td>
-
-<td width="50%" valign="top">
-
-#### Desktop Utility App
-
-A Python-based desktop application focused on automation, data management, and usability.
-
-`Python`
-
-[View Repository →](https://github.com/moterxii)
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/moterxii/moterxii">moterxii</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/moterxii/moterxii">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
----
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=moterxii&style=flat-square&color=00D9FF"
-    alt="Profile views"
-  />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mujtaba Wsam technology stack" />
+</picture>
 </p>
 
-<details>
-<summary><code>DO NOT CLICK HERE!</code></summary>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
-<br>
+<h2>Consistency signal</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=moterxii&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F254973216%3Fu%3Daa46c9feefde4efeea61866ca5eb05946ac81123%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mujtaba Wsam contribution activity" />
+</picture>
+</p>
 
-There is no build artifact. There never was.
+<hr />
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <strong>You have been warned →</strong>
-</a>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/moterxii">GitHub</a></td>
+</tr>
+</table>
 
-</div>
-
-</details>
+<p align="center"><sub>Mujtaba Wsam · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
